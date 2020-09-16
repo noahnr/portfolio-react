@@ -9,7 +9,7 @@ var projectData;
 export default projectData = [
     {
         hrefDeployed: "https://noahnr.github.io/Weather-api-homework/",
-        thumb: "img/weather.jpg",
+        thumb: "img/weather.jpeg",
         title: "WeatherAPI",
         text: "An api that can get the weather from any city around the world.",
         hrefGithub: "https://github.com/noahnr/Weather-api-homework",
